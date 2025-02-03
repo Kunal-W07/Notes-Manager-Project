@@ -5,11 +5,7 @@ import Navbar from "./componet/Navbar";
 import Home from "./componet/Home";
 import Paste from "./componet/Paste";
 import ViewPaste from "./componet/ViewPaste";
-<<<<<<< HEAD
-// change code
-=======
 
->>>>>>> a7e6f784be6babb5d9b4c8d804207f4c217197ee
 const router = createBrowserRouter([
   {
     path: "/",
